@@ -81,7 +81,7 @@ All notebooks are designed to run top-to-bottom on **Google Colab (CPU)** with n
 
 ---
 
-## Requirements
+## Requirements for the setup
 
 - Python 3.8+
 - scikit-learn >= 1.0
@@ -92,13 +92,11 @@ All notebooks are designed to run top-to-bottom on **Google Colab (CPU)** with n
 
 ## Citation
 
-If you use this code, please cite:
-
 ```
 @misc{chest_xray_generalization_2024,
   title  = {Chest X-Ray Pneumonia Detection: A Cross-Dataset Generalization Study},
   author = {Aashritha Aachi},
-  year   = {2024},
+  year   = {20246,
   note   = {CS439 Final Project}
 }
 ```
