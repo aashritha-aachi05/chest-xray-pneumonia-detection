@@ -1,6 +1,4 @@
-# chest-xray-pneumonia-detection
-
-# Chest X-Ray Pneumonia Detection — Generalization Study
+# Chest X-Ray Pneumonia Detection
 
 **CS439 Final Project**
 
