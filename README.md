@@ -94,7 +94,7 @@ All notebooks are designed to run top-to-bottom on **Google Colab (CPU)** with n
 @misc{chest_xray_generalization_2024,
   title  = {Chest X-Ray Pneumonia Detection: A Cross-Dataset Generalization Study},
   author = {Aashritha Aachi},
-  year   = {20246,
+  year   = {2026,
   note   = {CS439 Final Project}
 }
 ```
