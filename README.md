@@ -66,18 +66,6 @@ All notebooks are designed to run top-to-bottom on **Google Colab (CPU)** with n
 
 ---
 
-## Results Summary
-
-| Model | Kaggle AUC | NIH AUC | Gap |
-|-------|-----------|---------|-----|
-| Logistic Regression | — | — | — |
-| Random Forest | — | — | — |
-| SVM | — | — | — |
-| XGBoost (tuned) | — | — | — |
-
-*Results will be filled in after running notebooks.*
-
----
 
 ## Requirements for the setup
 
