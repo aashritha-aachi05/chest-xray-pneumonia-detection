@@ -1,7 +1,5 @@
 # Chest X-Ray Pneumonia Detection
 
-**CS439 Final Project**
-
 A hybrid machine learning pipeline for pneumonia detection in chest X-rays, combining unsupervised K-Means segmentation with supervised classification, evaluated for cross-dataset generalization.
 
 ---
@@ -82,7 +80,6 @@ All notebooks are designed to run top-to-bottom on **Google Colab (CPU)** with n
 @misc{chest_xray_generalization_2024,
   title  = {Chest X-Ray Pneumonia Detection: A Cross-Dataset Generalization Study},
   author = {Aashritha Aachi},
-  year   = {2026,
-  note   = {CS439 Final Project}
+  year   = {2026)
 }
 ```
