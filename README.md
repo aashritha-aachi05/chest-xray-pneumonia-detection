@@ -25,7 +25,6 @@ chest-xray-pneumonia-detection/
 ├── 3_classification.ipynb      # Model training, tuning, evaluation
 ├── 4_generalization.ipynb      # Cross-dataset generalization on NIH
 ├── 5_visualizations.ipynb      # All figures used in the report
-├── report.pdf                  # Final NeurIPS-formatted report
 └── README.md
 ```
 
